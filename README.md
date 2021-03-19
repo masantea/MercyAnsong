@@ -7,7 +7,9 @@ Hi, I'm Mercy! A current student of Lambada School and an aspiring Web Developer
 
 . 
 
-[![Mercy's GitHub stats](https://github-readme-stats.vercel.app/api?username=masantea)](https://github.com/anuraghazra/github-readme-stats)
+[![Mercy's GitHub stats](https://github-readme-stats.vercel.app/api?username=masantea)](https://github.com/masantea/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masantea)](https://github.com/masantea/github-readme-stats)
 
 
 
