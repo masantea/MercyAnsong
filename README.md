@@ -3,7 +3,7 @@ This is ME!! :woman_shrugging:
 
 Hi, I'm Mercy! A current student of Lambada School and an aspiring Web Developer. 
 
-. When i am not coding: :sleeping: :airplane: :swimmer: :curry: i
+. When i am not coding: :sleeping: :airplane: :swimmer: :curry: 
 
 
 [![Mercy's GitHub stats](https://github-readme-stats.vercel.app/api?username=masantea)](https://github.com/masantea/github-readme-stats)
