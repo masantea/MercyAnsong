@@ -3,9 +3,8 @@ This is ME!! :woman_shrugging:
 
 Hi, I'm Mercy! A current student of Lambada School and an aspiring Web Developer. 
 
-. When i am not coding: :sleeping: :airplane: :swimmer: :curry: in no particular order
+. When i am not coding: :sleeping: :airplane: :swimmer: :curry: i
 
-. 
 
 [![Mercy's GitHub stats](https://github-readme-stats.vercel.app/api?username=masantea)](https://github.com/masantea/github-readme-stats)
 
@@ -17,6 +16,8 @@ Hi, I'm Mercy! A current student of Lambada School and an aspiring Web Developer
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](www.linkedin.com/in/mercyansong)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/mercansy)
 
+
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23212529&textColor=%23ffddd2&qColor=%23f94144&aColor=%2390be6d&borderColor=%23f9c74f&codeColor=%23f9c74f)
 
 
 
